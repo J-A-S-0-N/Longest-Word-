@@ -1,0 +1,9 @@
+sentence = hello my name is Jason
+
+senlist = list of sentence{
+"h" "e" "l" "l" "o" " " "m" "y" " " "n" "a" "m" "e" " " "J" "a" "s" "o" "n"
+}
+
+eachword{}{
+this is the dictenert that will hold every word with variable so that i can find the space
+}
